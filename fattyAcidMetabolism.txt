@@ -1,0 +1,58 @@
+The estimated half-life (t 1/2) of adipose tissue TAG is between {{c1::6 months and 2 years}}; From Hodson et al., 2008
+
+TAG makes up {{c1::99%}} of adipose tissue in healthy adults; Hodson et al., 2008
+
+Subcutaneous adipose tissue TAG contains predominantly two fatty acids: {{c1::18:1 n^9 (43.5 mol%) and 16:0 (21.5 mol%)}}; From Hodson et al. 2008
+
+{{c1::Lipases, such as hormone-sensitive lipase}} released free fatty acids (i.e. NEFA) from adipose tissue TAG stores during fasting; From Hodson et al., 2008
+
+{{c1::Lipoprotein lipase}} are secreted by {{c2::adipocytes}} into the surround capillaries to release {{c3::digested TAG}} in chylomicron; From Hodson et al., 2008
+
+Most plasma TAG are carried by {{c1::very low density lipoproteins}} during fasting; From Hodson et al., 2008
+
+Plasma TAG composition represents dietary intake from the {{c1::past few days}}; From Hodson et al., 2008
+
+Phospholipid synthesis occurs in the {{c1::endoplasmic reticulum of the liver}}, eventually associating with lipoproteins and released into circulation; From Hodson et al., 2008
+
+Primarily, the fatty acid composition of phospholipids is altered by the {{c1::deacylation–reacylation pathway (Lands pathway)}}, but can be inserted by the {{c2::de novo pathway (Kennedy pathway)}}; From Hodson et al., 2008
+
+{{c1::Erythrocytes}} are incapable of de novo phospholipid synthesis, chain elongation or desaturation; From Hodson et al., 2008
+
+The pathways that renew the erythrocyte phospholipids are by direct exchange of {{c1::phosphatidylcholine}} from plasma lipoproteins and the acylation of {{c2::lysophospholipids}} (formed in either the membrane or from plasma); From Hodson et al., 2008
+
+The enzyme responsible for the synthesis of {{c2::cholesteryl esters}} from {{c3::cholesterol and acyl-CoA}} is {{c1::acyl-CoA-cholesterol acyl transferase (ACAT)}}; From Hodson et al., 2008
+
+Absorbed cholesterol is esterified in the {{c1::enterocyte}} either by reversal of {{c2::cholesteryl esterase}} or via ACAT; From Hodson et al., 2008
+
+Esterification of cholesteryl esters in the blood mainly occurs by influence of {{c1::lecithin-cholesterol acyl transferase (LCAT)}}; From Hodson et al., 2008
+
+Plasma cholesteryl ester composition could be influenced by {{c1::recently ingested fatty acids}}; From Hodson et al., 2008
+
+The three main fatty acids that make up the composition of cholesteryl ester are {{c1::18:2 n^6 (52.0 mol%), 16:0 (13.6 mol%), and 18:1 n^9 (19.3 mol%)}}; From Hodson et al., 2008
+
+The three most abundant fatty acids in all the plasma lipid fractions are {{c1::16:0 (23 mol%), 18:1 n^9 (19.5 mol%), and 18:2 n^6 (30.4 mol%)}}; From Hodson et al., 2008
+
+The fatty acid composition in the phospholipid, TAG, and cholesteryl ester fractions can be strongly influenced by the {{c1::lipoprotein}} concentration; From Hodson et al., 2008
+
+Fatty acid composition of erythrocyte phospholipids can be altered {{c1::within days}} of a dietary change; See multiple refs in Hodson et al., 2008
+
+Fatty acid exchange with erythrocytes can occur by several mechanisms (3): {{c1::from albumin-bound NEFA through fatty acid binding proteins}}, {{c2::‘spillover’ during lipoprotein lipase catalyzed hydrolysis of chylomicrons and VLDL}}, or {{c3::directly from phosphatidylcholine in plasma lipoproteins}}; From Hodson et al., 2008... Need to improve this one.
+
+Long chain SFA and MUFA are synthesised from {{c2::acetyl-CoA}} and {{c3::malonyl-CoA}} precursors, mainly from {{c1::carbohydrate}}; From Hodson et al., 2008
+
+The precursor to EPA and DHA, {{c1::18:3 n^3}}, cannot be produced endogenously; From Hodson et al., 2008
+
+A prediction of the diffusion mechanism for NEFA entry into cells is that cells {{c1::cannot exlcude specific fatty acids}}; From Hodson et al., 2008
+
+{{c1::Stearyl-CoA desaturase-1}} (SCD-1), a {{c2::delta 9 desaturase}}, is an DNL enzyme responsible for the desaturation of fatty acids, i.e. 16:1 n^7 from 16:0 and 18:1 n^9 from 18:0; From Hodson et al., 2008
+
+Fasting plasma TAG (possibly cholesteryl esters as well) may represent the enzyme actions of the {{c1::liver}}; From Hodson et al., 2008
+
+LCAT helps transport cholesterol to {{c1::high-density lipoproteins}} by the process {{c2::cholesterol esterification}}; From GHR NIH website
+
+{{c1::Esterified cholesterol}} is more efficiently picked up and transported to the liver by {{c2::HDL}}; From CHR NIH
+
+{{c1::Esterification}} is the process of adding {{c2::fatty acids}} to a molecule (for example, {{c3::glycerol or cholesterol}}; From Wikipedia. May need to update this to be more descriptive.
+
+LCAT has two main functions: {{c1::alpha-LCAT}} attaches cholesterol to {{c2::HDL}}, and {{c3::beta-LCAT}} attaches cholesterol to {{c4::VLDL and LDL}}; From GHR NIH.
+

@@ -1,0 +1,37 @@
+What does "iid" mean?; Identically and independently distributed
+
+Formula for paired t-test?; D =
+
+What is the formula for the variance?; [$$]\sigma^2 = \frac{\sum\limits_{i=1}^{n}(x_i - \mu)^2} {n - 1}[/$$]
+
+What does the variance (and their values) mean?; The variance is the degree to which values spread out. The higher the value, the more spread out they are from the mean.
+
+What is the formula for the standard deviation?; [$$] \sigma = \sqrt {\sigma^2 } [/$$] Or... [$$]\sigma = \sqrt{\frac{\sum\limits_{i=1}^{n}(x_i - \mu)^2} {n - 1}}[/$$]
+
+What does the standard deviation (and its values) mean?; The SD is a standardized way of representing the spread of the values from the mean, in either direction (positive or negative). Large values are more spread out. The SD is the square root of the variance.
+
+What is the formula for the covariance?; [$$]cov(X, Y) = \sum\limits_{i=1}^{n}\frac{(x_i - \bar{x}) (y_i - \bar{y})} {n - 1}[/$$]
+
+What does the covariance (and its values) mean?; The covar() is a measure of the strength of how related two random variables are with each other. Uncorrelated variables will have a [$]cov(X,Y) = 0[/$].  But when [$]cov(X,Y) > 0[/$] Y tends to increase as X increases, while when [$]cov(X,Y) < 0 [/$] Y tends to decrease as X increases.
+
+What is the covariance of X with X?; [$$]cov(X,X) = var(X) = \sigma_x ^2[/$$]
+
+What does this mean? [$]cov(y_{ij}, y_{ij'})[/$]; That is the covariance of y of the ith subject at two different measures/times.
+
+What does this mean? [$]cov(y_{ij}, y_{i'j})[/$]; That is the covariance of y of two ith subjects at the same time/measure.
+
+What does [$]\alpha \sim N(0, \sigma_\alpha^2)[/$] mean?; That represents that [$]\alpha[/$] has a normal distribution (N) between zero and has the variance [$]\sigma_\alpha^2[/$].
+
+What does balanced design mean?; That there are complete cases (no missingness at any time point).
+
+What is the simplest longitudinal analysis?; A paired t-test (or simple linear regression).
+
+What is compound symmetry?; Constant variance and covariance over time, meaning the spread is the same within a variable and between variables.
+
+What is the formula for the Bonferroni correction?; It is the simplest multiple testing correction: [$$]\alpha ' = \frac{\alpha}{k}[/$$]
+
+What is [$]ee'[/$], where [$]e[/$] is a vector?; It is a matrix [$]E[/$].
+
+What is the simple formula for mixed effects?; [$$]Y = X\beta + \zeta\alpha + e[/$$]
+
+What is the difference between covariance and correlation?; Both represent how related two variables are with each other. <br> Covariance has no scale and are difficult to compare to each other. <br> Correlation is scaled/normalized to between -1:1 and can be compared with each other.

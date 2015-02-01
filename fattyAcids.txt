@@ -1,0 +1,23 @@
+12:0;Lauric acid
+
+14:0;Myristic acid
+
+16:0;Palmitic acid
+
+18:0;Stearic acid
+
+20:0;Arachidic aicd
+
+16:1 n-7;Palmitoleic acid
+
+18:1 n-9;Oleic acid
+
+18:2 n-6;Linoleic acid
+
+18:3 n-3;$\alpha$-Linolenic acid
+
+20:4 n-6; Arachidonic acid
+
+20:5 n-3;Eicosapentaenoic acid
+
+22:6 n-3;Docosahexaenoic acid

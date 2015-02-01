@@ -1,0 +1,3 @@
+A {{c1::coefficient (or parameter)}} is the multiplication variable or value.;
+
+The form {{c1::[$]Y = X\beta + e[/$]}} is the simplest form of the ordinary least squares regression.;
