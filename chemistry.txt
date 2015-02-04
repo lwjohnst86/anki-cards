@@ -1,8 +1,11 @@
-What is hydrolysis?;
+What is hydrolysis?; A reaction involving breaking a bond using water (think NaCl, aka salt, dissolved in water).
 
-What is lipolysis?;
+What is lipolysis?; Breakdown of an esterified fatty acid (usually TAG) into free fatty acids using hydrolysis (the H2O breaks them apart).
 
-What is esterification?;
+What is esterification?; Combining a carboxylic acid and alcohol together (a -COOH with a -OH, respectively)
 
-What is phosphorylation?;
+What is phosphorylation?; Transferring a phosphate group ([$]PO_4^{-3}[/$]) from a donor to a recipient molecule.
 
+What is a carboxylic acid?; -COOH group at the end.
+
+What is an alcohol?; -OH group at the end.

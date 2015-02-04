@@ -1,23 +1,41 @@
-12:0;Lauric acid
+12:0; Lauric acid
 
-14:0;Myristic acid
+14:0; Myristic acid
 
-16:0;Palmitic acid
+16:0; Palmitic acid
 
-18:0;Stearic acid
+18:0; Stearic acid
 
-20:0;Arachidic aicd
+20:0; Arachidic acid
 
-16:1 n-7;Palmitoleic acid
+22:0; Behenic acid
 
-18:1 n-9;Oleic acid
+16:1 n-7; Palmitoleic acid
 
-18:2 n-6;Linoleic acid
+18:1 n-7; Vaccenic acid
 
-18:3 n-3;$\alpha$-Linolenic acid
+18:1 n-9; Oleic acid
+
+18:2 n-6; Linoleic acid
+
+18:3 n-3; $\alpha$-Linolenic acid
+
+20:1 n-9; Eicosanoic acid
+
+20:2 n-6; Eicosadienoic acid
+
+20:3 n-6; Dihomo-gamma-linoleic acid
 
 20:4 n-6; Arachidonic acid
 
-20:5 n-3;Eicosapentaenoic acid
+20:5 n-3; Eicosapentaenoic acid
 
-22:6 n-3;Docosahexaenoic acid
+22:1 n-9; Erucic acid
+
+22:4 n-6; Adrenic acid
+
+22:5 n-3; Docosapentaenoic acid
+
+22:6 n-3; Docosahexaenoic acid
+
+24:1 n-9; Nervonic acid
