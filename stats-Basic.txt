@@ -22,7 +22,7 @@ What does this mean? [$]cov(y_{ij}, y_{i'j})[/$]; That is the covariance of y of
 
 What does [$]\alpha \sim N(0, \sigma_\alpha^2)[/$] mean?; That represents that [$]\alpha[/$] has a normal distribution (N) between zero and has the variance [$]\sigma_\alpha^2[/$].
 
-What does balanced design mean?; That there are complete cases (no missingness at any time point).
+What does balanced design mean?; That there are complete cases (no missingness at any time point) and/or equal number of observations.
 
 What is the simplest longitudinal analysis?; A paired t-test (or simple linear regression).
 
@@ -35,3 +35,11 @@ What is [$]ee'[/$], where [$]e[/$] is a vector?; It is a matrix [$]E[/$].
 What is the simple formula for mixed effects?; [$$]Y = X\beta + \zeta\alpha + e[/$$]
 
 What is the difference between covariance and correlation?; Both represent how related two variables are with each other. <br> Covariance has no scale and are difficult to compare to each other. <br> Correlation is scaled/normalized to between -1:1 and can be compared with each other.
+
+What does effect size mean?;
+
+What is the formula for Pearson correlation coefficient?; [$$] \rho_{x,y} = corr(x, y) = \frac{cov(x, y)}{\sigma_x \times \sigma_y} [/$$] <br> [$$] \rho_{x,y} = \frac{\sum\limits_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})}{\sqrt{\sum\limits_{i=1}^n(x_i-\bar{x})^2\sum\limits_{i=1}^n(y_i-\bar{y})^2}} [/$$]
+
+What does the Pearson correlation coefficient mean?; [$]\rho[/$] is a measure of how related two variables are with one another, on a scale of -1:1.  Note: the correlation coefficient has nothing to do with predicting one over the other.  There is no implied measure of 'causation'.
+
+What is the formula to determine the linear regression estimate (beta)?; [$$] \beta = \frac{\sum\limits_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})}{\sum\limits_{i=1}^n(x_i-\bar{x})^2} [/$$] Or [$$] \beta = \frac{cov(x, y)} {var(x)} [/$$] Or [$$] \beta = \rho_{x,y} \times \frac{\sigma_y}{\sigma_x} [/$$]
