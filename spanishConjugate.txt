@@ -1,0 +1,59 @@
+-ar verbs: presente and yo; -o (eg. amar to amo)
+
+-ar verbs: presente and tu; -as (eg. amar to amas)
+
+-ar verbs: presente and el, ella, usted; -a (eg. amar to ama)
+
+-ar verbs: presente and nosotros; -amos (eg. amar to amamos)
+
+-ar verbs: presente and ellas, ellos, ustedes; -an (eg. amar to aman)
+
+
+-er verbs: presente and yo; -o (eg. comer to como)
+
+-er verbs: presente and tu; -es (eg. comer to comes)
+
+-er verbs: presente and el, ella, usted; -e (eg. comer to come)
+
+-er verbs: presente and nosotros; -emos (eg. comer to comemos)
+
+-er verbs: presente and ellas, ellos, ustedes; -en (eg. comer to comen)
+
+
+-ir verbs: presente and yo; -o (eg. escribir to escribo)
+
+-ir verbs: presente and tu; -es (eg. escribir to escribes)
+
+-ir verbs: presente and el, ella, usted; -e (eg. escribir to escribe)
+
+-ir verbs: presente and nosotros; -imos (eg. escribir to escribimos)
+
+-ir verbs: presente and ellas, ellos, ustedes; -en (eg. escribir to escriben)
+
+
+What is the imperfecto used for? ; Incomplete, repeated, continual events in the past (I was speaking).
+
+-ar verbs: imperfecto and yo; -aba (eg. amar to amaba)
+
+-ar verbs: imperfecto and tu; -abas (eg. amar to amabas)
+
+-ar verbs: imperfecto and el, ella, usted; -aba (eg. amar to amaba)
+
+-ar verbs: imperfecto and nosotros; -abamos (eg. amar to amabamos)
+
+-ar verbs: imperfecto and ellas, ellos, ustedes; -aban (eg. amar to amaban)
+
+
+
+What is the preterito used for? ; Completed, finished events in the past (I spoke).
+
+-ar verbs: preterito and yo; -é (eg. amar to amé)
+
+-ar verbs: preterito and tu; -aste (eg. amar to amaste)
+
+-ar verbs: preterito and ella, el, usted; -ó (eg. amar to amó)
+
+-ar verbs: preterito and nosotros; -amos (eg. amar to amamos)
+
+-ar verbs: preterito and ellas, ellos, ustedes; -aron (eg. amar to amaron)
+
