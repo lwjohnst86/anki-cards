@@ -18,9 +18,9 @@
 
 18:2 n-6; Linoleic acid
 
-18:3 n-3; $\alpha$-Linolenic acid
+18:3 n-3; [$]\alpha[/$]-Linolenic acid
 
-20:1 n-9; Eicosanoic acid
+20:1 n-9; Gondoic acid
 
 20:2 n-6; Eicosadienoic acid
 
